@@ -1,3 +1,8 @@
+Technologies: React + chakra ui, Firebase
+
+An Instagram clone application that does all functionalities of Instagram except messaging and video reels.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
